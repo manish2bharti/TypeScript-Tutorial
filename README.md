@@ -2,6 +2,7 @@
 # Compiling TypeScript
 1. Install the TypeScript compiler:- The easiest way to install TypeScript is through npm, the Node.js Package Manager. If you have npm installed, you can install TypeScript globally (-g) on your computer by:
 npm install -g typescript
+
 You can test your install by checking the version or help.
 tsc --version
 tsc --help
